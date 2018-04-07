@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "81206173642",
+    "firebase_url": "https://qrcampus-815a8.firebaseio.com",
+    "project_id": "qrcampus-815a8",
+    "storage_bucket": "qrcampus-815a8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:81206173642:android:a6c607cc0ff9db3d",
+        "android_client_info": {
+          "package_name": "com.codeblasters.qrcampus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "81206173642-d7hrordjmfrac4fmljpkd5a6lq5mbqug.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.codeblasters.qrcampus",
+            "certificate_hash": "9896102db830f251ebb3da8354b25e099ab386a3"
+          }
+        },
+        {
+          "client_id": "81206173642-tj3bh3c7hjui3v0o8kvofqsagevj0iot.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaZcOY7nIDOrSGzyviM-10EhNHL_D7Kj0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "81206173642-tj3bh3c7hjui3v0o8kvofqsagevj0iot.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
